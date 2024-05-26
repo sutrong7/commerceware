@@ -1,0 +1,9 @@
+@font-face{font-family:'Noto Sans KR regular';font-style:normal;font-weight:400;src:local("Noto Sans KR Regular"),local("NotoSansKR-Regular"),url("../fonts/notosanskr/NotoSans-Regular.woff2") format("woff2"),url("../fonts/notosanskr/NotoSans-Regular.woff") format("woff")}
+@font-face{font-family:'Noto Sans KR Medium';font-style:normal;font-weight:500;src:local("Noto Sans KR Medium"),local("NotoSansKR-Medium"),url("../fonts/notosanskr/NotoSans-Medium.woff2") format("woff2"),url("../fonts/notosanskr/NotoSans-Medium.woff") format("woff")}
+@font-face{font-family:'Noto Sans KR Bold';font-style:normal;font-weight:700;src:local("Noto Sans KR Bold"),local("NotoSansKR-Bold"),url("../fonts/notosanskr/NotoSans-Bold.woff2") format("woff2"),url("../fonts/notosanskr/NotoSans-Bold.woff") format("woff")}
+@font-face{font-family:'Roboto Medium';font-style:normal;font-weight:500;src:local("Roboto Medium"),local("Roboto-Medium"),url("../fonts/roboto/Roboto-Medium.woff2") format("woff2"),url("../fonts/roboto/Roboto-Medium.woff") format("woff")}
+@font-face{font-family:'Roboto Bold';font-style:normal;font-weight:700;src:local("Roboto Bold"),local("Roboto-Bold"),url("../fonts/roboto/Roboto-Bold.woff2") format("woff2"),url("../fonts/roboto/Roboto-Bold.woff") format("woff")}
+@font-face{font-family:'Roboto Black';font-style:normal;font-weight:900;src:local("Roboto Black"),local("Roboto-Black"),url("../fonts/roboto/Roboto-Black.woff2") format("woff2"),url("../fonts/roboto/Roboto-Black.woff") format("woff")}
+.fonts-load{visibility:hidden}
+.fonts-loaded .fonts-load{visibility:visible}
+/*# sourceMappingURL=../../sass_maps/css/common/font.css.map */
